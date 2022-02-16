@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ComradeYellowCitrusFruit/ComradeYellowCitrusFruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock, she/her.  
+## Hello,
+### my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock
+she/her  
 I am, well... I don't fuckin know.  
 I just do random shit sometimes, I am basically the programming equivalent of a shitposter.  
 Fun fact: I hate python.  
