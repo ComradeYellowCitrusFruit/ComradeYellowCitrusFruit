@@ -19,6 +19,6 @@ I am, well... I don't fuckin know.
 I just do random shit sometimes, I am basically the programming equivalent of a shitposter.  
 Fun fact: I hate python.  
 Another fun fact: programming is like chess, I have no clue what the fuck I am doing but it some how works, or fails horribly, one or the other  
-Yet another fun fact: life is like chess, I suck at chess
+Yet another fun fact: life is like chess, I suck at chess  
 If you try to hire me, don't.  
 That's all, for now, at least.  
