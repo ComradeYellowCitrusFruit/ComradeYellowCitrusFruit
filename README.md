@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock
+# Hello, my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock
 ###### She/Her
 I am, well... I don't fuckin know.  
 I just do random shit sometimes, I am basically the programming equivalent of a shitposter.  
-If you try to hire me, don't.  
-### Fun facts with Teresa:
+If you try to hire me, don't. 
+## Fun facts with Teresa:
 - I hate python.  
 - Programming is like chess, I have no clue what the fuck I am doing but it some how works, or fails horribly, one or the other.  
 - Life is like chess, I suck at chess  
@@ -26,6 +26,6 @@ If you try to hire me, don't.
 - I need to stop adding fun facts
 - Nothing I do here is practical
 - *Insert some anarchist shit here*
-- Trans rights  
-  
+- Trans rights 
+
 That's all, for now, at least.
