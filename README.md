@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello,
-### my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock
+## Hello, my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock
 she/her  
 I am, well... I don't fuckin know.  
 I just do random shit sometimes, I am basically the programming equivalent of a shitposter.  
