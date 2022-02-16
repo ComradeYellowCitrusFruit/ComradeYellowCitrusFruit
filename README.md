@@ -27,4 +27,5 @@ If you try to hire me, don't.
 - Nothing I do here is practical
 - *Insert some anarchist shit here*
 - Trans rights  
+  
 That's all, for now, at least.
