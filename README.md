@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Teresa Fuckyouimnotputtingmylastnameheresuckmycock, she/her.
+I am, well... I don't fuckin know. 
+I just do random shit sometimes, I am basically the programming equivalent of a shitposter.
+Fun fact: I hate python.
+If you try to hire me, don't.
+That's all, for now, at least.
