@@ -12,6 +12,8 @@ If you try to hire me, don't.
 - Nothing I do here is practical [^linux]
 - *Insert some anarchist shit here*
 - Trans rights 
+- If you can decode this [^decode] I will give you $5: ༡⦓ⶣ⵿ڻ⧷\u2e7d⥩ⲵ\u07fbۛᲈႤ⽧⤓\u0dfb⢹⺏㉶⡞➋ൻⲅᠻ\u05fb㔳➋ካ\u0dfbᗆⶔ〿✣ࡓ\u0e7b〓ᔉ⸋ⱐ\u0c5bᚳ⿃\u0dfb➄㋱ƛǵ\u0c5bབྷෛඃ\u0dfbຣ഻བྷ\u0c5bඃ
 
 [^lastname]: That is in fact ~~not~~ my last name
 [^linux]: Except maybe Icouldntcomeupwithaname linux
+[^decode]: ነ⦸ⵣカހⰨ㖜࿀ᚸཀ៶⫭⠬㛰ᔺ⹜ຠ㒘⠪㖜ᣜ⠦⥕⻟ቘࡀㅽ⥘຀㎚ᣪ㟣༠⳸⸶㦼ᘄ෠⭌⫭ᐐ㊨㑀⿐ម㉼ᔺ⪄฀㟠ᗐ⨛カႀ⣮㏌ࠀ⨤⺿ⷹ⩶ࡀ㐻⥘⫰ເᧂ㝬ッぐ၀㣈᠌⺿⫡Ⱘᔰ⸰〬࿀ᥘ㕾߀カ⨠㊸ᠨ
