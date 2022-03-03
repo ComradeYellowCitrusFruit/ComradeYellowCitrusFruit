@@ -13,6 +13,7 @@ If you try to hire me, don't.
 - *Insert some anarchist shit here*
 - Trans rights 
 - If you can decode this [^decode] I will give you $5: ༡⦓ⶣ⵿ڻ⧷\u2e7d⥩ⲵ\u07fbۛᲈႤ⽧⤓\u0dfb⢹⺏㉶⡞➋ൻⲅᠻ\u05fb㔳➋ካ\u0dfbᗆⶔ〿✣ࡓ\u0e7b〓ᔉ⸋ⱐ\u0c5bᚳ⿃\u0dfb➄㋱ƛǵ\u0c5bབྷෛඃ\u0dfbຣ഻བྷ\u0c5bඃ
+- Слава Україні!
 
 [^lastname]: That is in fact ~~not~~ my last name
 [^linux]: Except maybe Icouldntcomeupwithaname linux
