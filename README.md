@@ -9,9 +9,8 @@ If you try to hire me, don't.
 - Life is like chess, I suck at chess  
 - Unlike life, I don't stay up at night crying and nearly killing myself over fucking chess.
 - I need to stop adding fun facts
-- Nothing I do here is practical [^linux]
+- Nothing I do here is practical
 - *Insert some anarchist shit here*
 - Trans rights 
 
 [^lastname]: That is in fact ~~not~~ my last name
-[^linux]: Except maybe Icouldntcomeupwithaname linux
