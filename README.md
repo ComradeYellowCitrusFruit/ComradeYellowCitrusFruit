@@ -12,5 +12,6 @@ If you try to hire me, don't.
 - Nothing I do here is practical
 - *Insert some anarchist shit here*
 - Trans rights 
+- I am technically banned from Belarus
 
 [^lastname]: That is in fact ~~not~~ my last name
