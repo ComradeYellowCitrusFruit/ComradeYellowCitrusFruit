@@ -13,5 +13,6 @@ If you try to hire me, don't.
 - *Insert some anarchist shit here*
 - Trans rights 
 - I am technically banned from Belarus
+- I do not recognize Discord.js any more
 
 [^lastname]: That is in fact ~~not~~ my last name
