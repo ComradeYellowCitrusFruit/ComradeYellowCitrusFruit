@@ -7,7 +7,7 @@ If you try to hire me, don't.
 ![My stats and shit](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=github_dark&count_private=true&hide=stars)
 
 
-[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Fun facts with Teresa:
 - I hate python.  
 - Programming is like chess, I have no clue what the fuck I am doing but it some how works, or fails horribly, one or the other.  
