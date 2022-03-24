@@ -20,5 +20,7 @@ If you try to hire me, don't.
 - I am technically banned from Belarus
 - I do not recognize Discord.js any more
 - Help me
+- I HATE LINEAR ALGEBRA
+- QUATERNIONS ARE RESPONSIBLE FOR EVERYTHING BAD THAT HAS EVER HAPPENED
 
 [^lastname]: That is in fact ~~not~~ my last name
