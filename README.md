@@ -11,7 +11,6 @@ My discord is Comrade Yellow Citrus Fruit#6595 if you want to reach me.
 Strong believer in FOSS.
 
 ## Stats
-![My stats and shit](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=github_dark&count_private=true&hide=stars)
+![My stats and shit](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 
-
-[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=tokyonight&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
