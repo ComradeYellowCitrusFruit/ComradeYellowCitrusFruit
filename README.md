@@ -24,3 +24,4 @@ Strong believer in FOSS.
 - A little Rust
 - Can write some simple x64 assembly in AT&T syntax
 - bash
+- makefile
