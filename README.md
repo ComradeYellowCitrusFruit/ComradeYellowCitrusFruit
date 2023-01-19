@@ -21,7 +21,7 @@ Strong believer in FOSS.
 - C++
 - Python
 - Javascript and Typescript (kinda)
-- A little Rust
+- Rust
 - Can write some simple x64 assembly in AT&T syntax
 - bash
 - makefile
