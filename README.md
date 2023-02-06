@@ -11,17 +11,24 @@ My discord is Comrade Yellow Citrus Fruit#6595 if you want to reach me.
 Strong believer in FOSS.
 
 ## Stats
-![My stats and shit](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
+![My stats](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 
 [![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=tokyonight&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I know
 
-- C
-- C++
-- Python
+- **C**
+- **C++**
+- **Python**
 - Javascript and Typescript (kinda)
 - Rust
-- Can write some simple x64 assembly in AT&T syntax
-- bash
-- makefile
+- x86(-64) assembly, primarily at&t syntax
+- bash/shell script
+- **makefile**
+
+## Languages I want to learn
+
+- C#
+- Scala
+- Kotlin
+- arm(64) assembly
