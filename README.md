@@ -32,3 +32,11 @@ Strong believer in FOSS.
 - Scala
 - Kotlin
 - arm(64) assembly
+
+## Things I'm interested in
+
+- Gamedev
+- OSDev
+- Cybersecurity
+- Compiler dev
+- Graphics
