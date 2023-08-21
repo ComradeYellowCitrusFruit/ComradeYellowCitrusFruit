@@ -20,7 +20,7 @@ Strong believer in FOSS.
 - **C++**
 - **Python**
 - Javascript and Typescript (kinda)
-- Rust
+- **Rust**
 - x86(-64) assembly, primarily at&t syntax
 - bash/shell script
 - **makefile**
