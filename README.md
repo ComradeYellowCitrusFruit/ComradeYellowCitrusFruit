@@ -12,7 +12,7 @@ Strong believer in FOSS.
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=ComradeYellowCitrusFruit&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs)
 
-[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=tokyonight&hide=python,dockerfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Help me](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeYellowCitrusFruit&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I know
 
